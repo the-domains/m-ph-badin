@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T10:54:09.382Z'
-dateModified: '2016-05-07T10:53:55.301Z'
+datePublished: '2016-05-07T11:04:22.502Z'
+dateModified: '2016-05-07T11:04:16.580Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-wayfinding-systemcase-study.md
@@ -26,4 +26,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96063e8-38bc-4328-9382-0332f8eeabce.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18aac781-8693-49b6-92e3-a9f633363904.jpg)
 
-* WAYFINDING **SYSTEM**(case study)
+* [WAYFINDING SYSTEM****(case study)][0]
+
+[0]: null
