@@ -1,7 +1,7 @@
 name: M-Ph-Badin
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.6993623259477317
+typography_spectrum: 0.52666
 title: M-Ph-Badin
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#050505'
+    - '#ebebeb'
+    - '#4c1a21'
+    - '#beae8d'
+    - '#695453'
   brandStrength: 0.6606195371132344
   lightness: 0.0630710874684155
   saturation: 0.23604037426412106
