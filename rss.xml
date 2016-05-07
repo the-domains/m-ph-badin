@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[M-Ph-Badin]]></title>
+        <description><![CDATA[M-Ph-Badin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 10:52:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WAYFINDING SYSTEM(case study)]]></title>
+            <description><![CDATA[<article><h1>WAYFINDING SYSTEM(case study)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2798160b-1d89-4af4-b278-4c58c4a53a05.jpg"></article>]]></description>
+            <link>undefinedwayfinding-systemcase-study/index.html</link>
+            <guid isPermaLink="false">395e87ab-d310-495d-a85e-925a8e252008</guid>
+            <pubDate>Sat, 07 May 2016 10:52:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
